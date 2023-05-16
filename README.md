@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samrat Sapkota</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
-
 - 🌱 I’m currently learning **Full stack development**
 
 - 👨‍💻 All of my projects are available at [http://samratsapkota.com.np/](http://samratsapkota.com.np/)
