@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at [http://samratsapkota.com.np/](http://samratsapkota.com.np/)
+- 👨‍💻 My portfolio website is available at [http://samratsapkota.com.np/](http://samratsapkota.com.np/)
 
-- 💬 Ask me about **Html ,Css ,Javascript,C,C++**
+- 💬 Ask me about **Html ,Css ,Javascript,C,C++,bootstrap,Reactjs**
 
 - 📫 How to reach me **samratcodess@gmail.com**
 
