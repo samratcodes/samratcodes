@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samratcodes&show_icons=true&locale=en" alt="samratcodess" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratcodess&" alt="samratcodes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratcodes&" alt="samratcodes" /></p>
