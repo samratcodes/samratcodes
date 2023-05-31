@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I also create content**
 
-- ⚡ Projects: **weather app** <a href="[https://www.w3schools.com/css/](https://samratcodes.github.io/weatherApp.github-io/)" target="_blank" rel="noreferrer">Link</a>
+- ⚡ Projects: **weather app** https://samratcodes.github.io/weatherApp.github-io/
 
 
 
