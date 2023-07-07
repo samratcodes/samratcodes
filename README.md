@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I also create content**
 
-- ⚡ Projects: **weather app** https://samratcodes.github.io/weatherApp.github-io/ <br> **Esewa clone**https://esewaclone.netlify.app/
+- ⚡ Projects:</br> **weather app** https://samratcodes.github.io/weatherApp.github-io/ <br> **Esewa clone**https://esewaclone.netlify.app/
   
 
 
