@@ -13,6 +13,7 @@
 
 - ⚡ Projects:<br> - [**weather app**]( https://samratcodes.github.io/weatherApp.github-io/) <br>
                - [**Esewa clone**](https://esewaclone.netlify.app/ )<br>
+               - [**Todo list**](https://t0d0listy.netlify.app/ )<br>
                - [**CallBreak Calculator** ](https://callbreakcalulator.netlify.app/)
   
 
