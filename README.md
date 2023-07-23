@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Samrat Sapkota</h1>
-<h3 align="center">A passionate web developer from Nepal</h3> <img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="350" /> 
+<h3 align="center">A passionate web developer from Nepal</h3>
 
 - 🌱 I’m currently learning **Full stack development**
 
@@ -11,6 +11,8 @@
 - 📫 How to reach me **samratcodess@gmail.com**
 
 - ⚡ Fun fact **I also create content**
+
+   <img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="350" /> 
 
 - ⚡ Projects:<br> - [**weather app**]( https://samratcodes.github.io/weatherApp.github-io/) <br>
                - [**Esewa clone**](https://esewaclone.netlify.app/ )<br>
