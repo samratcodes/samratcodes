@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samratcodes&border=true&include_all_commits=true&count_private=true" alt="samratcodess" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratcodes&border=true&include_all_commits=true&count_private=true" alt="samratcodes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratcodes&border=true&include_all_commits=true" alt="samratcodes" /></p>
