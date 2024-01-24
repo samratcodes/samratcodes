@@ -15,7 +15,7 @@
 
 
 - ⚡ Projects:<br>
-    - [**Astro Signs**](https://astrosigns.netlify.app/) <br>
+    - [**Dope Deals**](https://dopedeals.netlify.app/) <br>
     - [**Esewa clone**](https://esewaclone.netlify.app/ )<br>
     - [**Todo list**](https://t0d0listy.netlify.app/ )<br>
     - [**CallBreak Calculator** ](https://callbreakcalulator.netlify.app/) <br>
