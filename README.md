@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samratcodes&label=Profile%20views&color=0e75b6&style=flat" alt="samratcodes" /> </p>
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 My portfolio website is available at [http://samratsapkota.com.np/](http://samratsapkota.com.np/)
+- 👨‍💻 My portfolio website is available at [http://samratsapkota.com.np/](https://samratsapkota.netlify.app/)
 
 - 💬 Ask me about **Html ,Css ,Javascript,C,C++,bootstrap,Reactjs**
 
