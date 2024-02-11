@@ -1,25 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Samrat Sapkota</h1>
-<h3 align="center">A passionate web developer from Nepal</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samratcodes&label=Profile%20views&color=0e75b6&style=flat" alt="samratcodes" /> </p>
-- 🌱 I’m currently learning **Full stack development**
+<h3 align="center">A passionate Full-stack developer from Nepal</h3>
 
-- 👨‍💻 My portfolio website is available at [http://samratsapkota.com.np/](https://samratsapkota.netlify.app/)
+## Achievements
+- **Freelance Projects:** Successfully completed multiple freelance projects, demonstrating proficiency and versatility.
+  
+- **Osm Hackfest Winner** 
+  
+- **Microsoft Learn Student Ambassador** 
 
-- 💬 Ask me about **Html ,Css ,Javascript,C,C++,bootstrap,Reactjs**
-
-- 📫 How to reach me **samratcodess@gmail.com**
-
-- ⚡ Fun fact **I also create content**
-
-
-
-- ⚡ Projects:<br>
-    - [**Dope Deals**](https://dopedeals.netlify.app/) <br>
-    - [**Esewa clone**](https://esewaclone.netlify.app/ )<br>
-    - [**Todo list**](https://t0d0listy.netlify.app/ )<br>
-    - [**CallBreak Calculator** ](https://callbreakcalulator.netlify.app/) <br>
-    - [**Weather app**]( https://samratcodes.github.io/weatherApp.github-io/)
+## ⚡Fun Projects:<br>
+- [**Dope Deals**](https://dopedeals.netlify.app/)  Dope Deals is a full-stack ecommerce platform offering exclusive deals on gadgets, fashion, and more. This practice project allows users to browse deals, add items to their cart, and securely check out. Simplifying online shopping with a sleek interface and seamless checkout. <br>
+- [**CallBreak** ](https://callbreakcalulator.netlify.app/) CallBreak is a web-based application designed to simplify score calculations for players of the card game Call Break. It eliminates the need for complex manual calculations, allowing players to focus on the game itself. With intuitive controls and a user-friendly interface, CallBreak makes it easy for players to track their scores accurately and enjoy a seamless gaming experience. <br>
+- [**Esewa clone**](https://esewaclone.netlify.app/ )   Esewa clone is a basic replica of the front page of the popular digital wallet platform Esewa.<br>
+- [**Todo list**](https://t0d0listy.netlify.app/ ) Todo list is a simple task management web application. It allows users to add, edit, and delete tasks, as well as mark tasks as completed. With its minimalist design and intuitive user interface, Todo list helps users organize their daily tasks efficiently and stay productive. <br>
+- [**Weather app**]( https://samratcodes.github.io/weatherApp.github-io/)  The Weather app is a web-based application that provides real-time weather information for any location worldwide. Users can simply enter the name of a city or town, and the app will retrieve and display the current weather conditions, including temperature, humidity, wind speed, and more. With its sleek design and accurate data, the Weather app is your go-to companion for staying informed about the weather wherever you go. <br>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
