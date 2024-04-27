@@ -13,9 +13,9 @@
 
 ## ⚡Fun Projects:<br>
 - [**Dope Deals**](https://dopedeals.netlify.app/)  Dope Deals is a full-stack ecommerce platform offering exclusive deals on gadgets, fashion, and more. This practice project allows users to browse deals, add items to their cart, and securely check out. Simplifying online shopping with a sleek interface and seamless checkout. <br>
+- [**HamroCare**](https://hamrocare.netlify.app/ )  HamroCare, a web application developed during KEC Hackalite. HamroCare focuses on providing care services to older people. <br>
 - [**CallBreak** ](https://callbreakcalulator.netlify.app/) CallBreak is a web-based application designed to simplify score calculations for players of the card game Call Break. It eliminates the need for complex manual calculations, allowing players to focus on the game itself. With intuitive controls and a user-friendly interface, CallBreak makes it easy for players to track their scores accurately and enjoy a seamless gaming experience. <br>
 - [**Esewa clone**](https://esewaclone.netlify.app/ )   Esewa clone is a basic replica of the front page of the popular digital wallet platform Esewa.<br>
-- [**Todo list**](https://t0d0listy.netlify.app/ ) Todo list is a simple task management web application. It allows users to add, edit, and delete tasks, as well as mark tasks as completed. With its minimalist design and intuitive user interface, Todo list helps users organize their daily tasks efficiently and stay productive. <br>
 - [**Weather app**]( https://samratcodes.github.io/weatherApp.github-io/)  The Weather app is a web-based application that provides real-time weather information for any location worldwide. Users can simply enter the name of a city or town, and the app will retrieve and display the current weather conditions, including temperature, humidity, wind speed, and more. With its sleek design and accurate data, the Weather app is your go-to companion for staying informed about the weather wherever you go. <br>
   
 <h3 align="left">Connect with me:</h3>
