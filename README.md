@@ -12,7 +12,7 @@
 - **Microsoft Learn Student Ambassador** 
 
 ## ⚡Fun Projects:<br>
-- [**Dope Deals**](https://dopedeals.netlify.app/)  Dope Deals is a full-stack ecommerce platform offering exclusive deals on gadgets, fashion, and more. This practice project allows users to browse deals, add items to their cart, and securely check out. Simplifying online shopping with a sleek interface and seamless checkout. <br>
+- [**Dope Deals**](https://dopedeals.netlify.app/)  Dope Deals is a  ecommerce platform offering exclusive deals on gadgets, fashion, and more. This practice project allows users to browse deals, add items to their cart, and securely check out. <br>
 - [**HamroCare**](https://hamrocare.netlify.app/ )  HamroCare, a web application developed during KEC Hackalite. HamroCare focuses on providing care services to older people. <br>
 - [**CallBreak** ](https://callbreakcalulator.netlify.app/) CallBreak is a web-based application designed to simplify score calculations for players of the card game Call Break. It eliminates the need for complex manual calculations, allowing players to focus on the game itself. With intuitive controls and a user-friendly interface, CallBreak makes it easy for players to track their scores accurately and enjoy a seamless gaming experience. <br>
 - [**Esewa clone**](https://esewaclone.netlify.app/ )   Esewa clone is a basic replica of the front page of the popular digital wallet platform Esewa.<br>
