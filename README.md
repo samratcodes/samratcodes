@@ -4,12 +4,15 @@
 
 ## Visit [**Portfolio**](https://samratsapkota.netlify.app/)
 
-## Achievements
-- **Freelance Projects:** Successfully completed multiple freelance projects, demonstrating proficiency and versatility.
+
+- ## Hackathons :
+    - **Osm Hackfest Winner**
+    - **KEC-Hackalite Runner up /Most innovative Idea Winner**
   
-- **Osm Hackfest Winner** 
+- ## **Microsoft Learn Student Ambassador**
+- ## **Freelance Projects**
+
   
-- **Microsoft Learn Student Ambassador** 
 
 ## ⚡Fun Projects:<br>
 - [**Dope Deals**](https://dopedeals.netlify.app/)  Dope Deals is a  ecommerce platform offering exclusive deals on gadgets, fashion, and more. This practice project allows users to browse deals, add items to their cart, and securely check out. <br>
