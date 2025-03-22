@@ -8,6 +8,7 @@
 - ## Hackathons :
     - **Osm Hackfest Winner**
     - **KEC-Hackalite Runner up /Most innovative Idea Winner**
+    - **Kusum Hackathon Second runner up**
   
 - ## **Microsoft Learn Student Ambassador**
 - ## **Freelance Projects**
